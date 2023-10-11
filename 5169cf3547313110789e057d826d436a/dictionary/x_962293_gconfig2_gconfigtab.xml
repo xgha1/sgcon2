@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="036a0bb547313110789e057d826d43eb" label="GConfigTab" max_length="40" name="x_962293_gconfig2_gconfigtab" type="collection">
+        <element label="Gfilter2" max_length="40" name="gfilter2" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
