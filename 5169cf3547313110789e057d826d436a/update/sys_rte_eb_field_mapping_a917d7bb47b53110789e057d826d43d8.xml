@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="u_managerid">6117d7bb47b53110789e057d826d43d5</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 15:23:22</sys_created_on>
+        <sys_id>a917d7bb47b53110789e057d826d43d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="G7UserTransformMap">3207177b47b53110789e057d826d4397</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="impTotemp">ad17d7bb47b53110789e057d826d436f</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_a917d7bb47b53110789e057d826d43d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 15:23:22</sys_updated_on>
+        <target_sys_rte_eb_field display_value="u_managerid">ad17d7bb47b53110789e057d826d43d6</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

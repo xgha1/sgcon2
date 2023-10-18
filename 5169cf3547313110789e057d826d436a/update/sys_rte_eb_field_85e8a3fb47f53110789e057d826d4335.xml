@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field">
+    <sys_rte_eb_field action="INSERT_OR_UPDATE">
+        <field>source_native_key</field>
+        <name>source_native_key</name>
+        <sys_class_name>sys_rte_eb_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:41:09</sys_created_on>
+        <sys_id>85e8a3fb47f53110789e057d826d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>source_native_key</sys_name>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="G7UserTransformMap">3207177b47b53110789e057d826d4397</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="User 1">5e98a3fb47f53110789e057d826d4323</sys_rte_eb_entity>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>sys_rte_eb_field_85e8a3fb47f53110789e057d826d4335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 16:41:09</sys_updated_on>
+    </sys_rte_eb_field>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f0797bb47b53110789e057d826d43f9" extends="sys_import_set_row" label="G7USERS" max_length="40" name="x_962293_gconfig2_g7users" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=displayname" label="displayname" max_length="40" name="u_displayname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=firstname" label="firstname" max_length="40" name="u_firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lastname" label="lastname" max_length="40" name="u_lastname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=mail" label="mail" max_length="40" name="u_mail" type="string"/>
+        <element attributes="import_attribute_name=managerid" label="managerid" max_length="40" name="u_managerid" type="integer"/>
+        <element attributes="import_attribute_name=userid" label="userid" max_length="40" name="u_userid" type="integer"/>
+    </element>
+</database>

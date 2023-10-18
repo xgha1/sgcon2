@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="u_displayname">6117d7bb47b53110789e057d826d43c0</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:42:30</sys_created_on>
+        <sys_id>8d3963fb47f53110789e057d826d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="G7UserTransformMap">3207177b47b53110789e057d826d4397</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="tempToUser 1">2698a3fb47f53110789e057d826d4326</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_8d3963fb47f53110789e057d826d43a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 16:42:30</sys_updated_on>
+        <target_sys_rte_eb_field display_value="name">0d3963fb47f53110789e057d826d439f</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gconfig2">5169cf3547313110789e057d826d436a</application>
+        <file_path/>
+        <instance_id>1dca40e8db5732c04c1ff70fbf961996</instance_id>
+        <instance_name>dev38306</instance_name>
+        <name>sys_rte_eb_field_mapping_8d3963fb47f53110789e057d826d43a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field display_value="u_displayname">6117d7bb47b53110789e057d826d43c0</source_sys_rte_eb_field><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-17 16:42:30</sys_created_on><sys_id>8d3963fb47f53110789e057d826d43a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package><sys_policy/><sys_rte_eb_definition display_value="G7UserTransformMap">3207177b47b53110789e057d826d4397</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="tempToUser 1">2698a3fb47f53110789e057d826d4326</sys_rte_eb_entity_mapping><sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope><sys_update_name>sys_rte_eb_field_mapping_8d3963fb47f53110789e057d826d43a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-17 16:42:30</sys_updated_on><target_sys_rte_eb_field display_value="name">0d3963fb47f53110789e057d826d439f</target_sys_rte_eb_field></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>1357552563</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1f29d37547313110789e057d826d4338</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:42:30</sys_created_on>
+        <sys_id>493963fb47f53110789e057d826d43a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b3e8476760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 16:42:30</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>8d3963fbc3f5311005dec25feb5436a2</update_guid>
+        <update_guid_history>8d3963fbc3f5311005dec25feb5436a2:1357552563</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 11:59:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>18375e55eb9b4f6685b75b73217e7131</sys_id>
+        <sys_metadata>8d3963fb47f53110789e057d826d43a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_scope_delete display_value="">34a46aa142044b0cb7b164c886305190</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_8d3963fb47f53110789e057d826d43a1</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_8d3963fb47f53110789e057d826d43a1">493963fb47f53110789e057d826d43a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 11:59:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

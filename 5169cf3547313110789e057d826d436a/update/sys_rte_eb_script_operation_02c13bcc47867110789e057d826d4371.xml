@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_script_operation">
+    <sys_rte_eb_script_operation action="INSERT_OR_UPDATE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <name>Script Operation - u_managerid</name>
+        <operation_group/>
+        <order>200</order>
+        <script><![CDATA[(function(batch, output) {
+   for (var i = 0; i < batch.length; i++) {
+      var input = batch[i].input; // Value of the input column.
+
+      // Add your code here.
+
+      // Set each output element below
+      output[i] = 'Z'+input;
+   }
+})(batch, output);]]></script>
+        <source_sys_rte_eb_field display_value="u_managerid">ad17d7bb47b53110789e057d826d43d6</source_sys_rte_eb_field>
+        <source_sys_rte_eb_fields/>
+        <sys_class_name>sys_rte_eb_script_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 11:58:28</sys_created_on>
+        <sys_id>02c13bcc47867110789e057d826d4371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Script Operation - u_managerid</sys_name>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="G7UserTransformMap">3207177b47b53110789e057d826d4397</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="temp">ad17d7bb47b53110789e057d826d436d</sys_rte_eb_entity>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>sys_rte_eb_script_operation_02c13bcc47867110789e057d826d4371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 11:58:28</sys_updated_on>
+        <target_sys_rte_eb_field display_value="CManagerid">0ec13bcc47867110789e057d826d436e</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Script Operation">941f88e273b333002b6265a751ab9e84</type>
+        <use_unique_input_sets>true</use_unique_input_sets>
+    </sys_rte_eb_script_operation>
+</record_update>

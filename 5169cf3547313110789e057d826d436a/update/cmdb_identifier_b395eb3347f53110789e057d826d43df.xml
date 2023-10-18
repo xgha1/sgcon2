@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier">
+    <cmdb_identifier action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>sys_user</applies_to>
+        <description>IRE User 10/17/23</description>
+        <independent>true</independent>
+        <name>User rule</name>
+        <sys_class_name>cmdb_identifier</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:29:02</sys_created_on>
+        <sys_id>b395eb3347f53110789e057d826d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>cmdb_identifier_b395eb3347f53110789e057d826d43df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 16:29:02</sys_updated_on>
+    </cmdb_identifier>
+</record_update>

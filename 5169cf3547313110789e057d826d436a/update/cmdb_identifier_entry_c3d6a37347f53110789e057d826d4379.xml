@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry">
+    <cmdb_identifier_entry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_fallback>false</allow_fallback>
+        <allow_null_attribute>false</allow_null_attribute>
+        <attributes>user_name,name</attributes>
+        <condition/>
+        <exact_count_match>false</exact_count_match>
+        <hybrid_entry_ci_criterion_attributes/>
+        <identifier display_value="sys_user">b395eb3347f53110789e057d826d43df</identifier>
+        <order>100</order>
+        <sys_class_name>cmdb_identifier_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 16:32:40</sys_created_on>
+        <sys_id>c3d6a37347f53110789e057d826d4379</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>user_name,name</sys_name>
+        <sys_package display_value="Gconfig2" source="x_962293_gconfig2">5169cf3547313110789e057d826d436a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gconfig2">5169cf3547313110789e057d826d436a</sys_scope>
+        <sys_update_name>cmdb_identifier_entry_c3d6a37347f53110789e057d826d4379</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 12:45:38</sys_updated_on>
+        <table>sys_user</table>
+    </cmdb_identifier_entry>
+</record_update>
